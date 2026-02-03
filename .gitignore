@@ -1,0 +1,11 @@
+# Data artifacts
+data/raw/
+data/processed/
+data/index/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
